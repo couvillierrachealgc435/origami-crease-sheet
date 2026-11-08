@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "Launcher icon for OrigamiCreaseSheet: a folded paper crane silhouette, crimson #B23A48 on washi off-white #F2F0EB"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "The only background: a washi-paper desk seen from above, off-white #F2F0EB, faint paper fibre, a soft crimson-cloth corner and a teal ruler edge; no text, no UI"
+    },
+    {
+      "name": "logo",
+      "type": "icon",
+      "prompt": "Origami crease mark emblem: a thin geometric folded-corner glyph, ink #28262C with a crimson #B23A48 fold, transparent background, no text"
+    },
+    {
+      "name": "icon_home",
+      "type": "sprite",
+      "prompt": "Small paper-drawer home glyph, teal #3C6E71 outline, transparent background"
+    },
+    {
+      "name": "icon_pause",
+      "type": "sprite",
+      "prompt": "Two thin vertical ink bars as a pause glyph, ink #28262C, transparent background"
+    },
+    {
+      "name": "sprite_1",
+      "type": "sprite",
+      "prompt": "Folded paper crane, crimson paper #B23A48, isolated object, transparent background"
+    },
+    {
+      "name": "sprite_2",
+      "type": "sprite",
+      "prompt": "Folded paper frog, teal paper #3C6E71, isolated object, transparent background"
+    },
+    {
+      "name": "sprite_3",
+      "type": "sprite",
+      "prompt": "Folded paper fox, crimson paper #B23A48, isolated object, transparent background"
+    },
+    {
+      "name": "sprite_4",
+      "type": "sprite",
+      "prompt": "Folded paper butterfly, cream paper #F2F0EB with a crimson #B23A48 pattern, isolated object, transparent background"
+    },
+    {
+      "name": "sprite_5",
+      "type": "sprite",
+      "prompt": "Folded paper koi, teal paper #3C6E71, isolated object, transparent background"
+    }
+  ]
+}

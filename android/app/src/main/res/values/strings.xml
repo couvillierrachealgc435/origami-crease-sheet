@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Origami Crease Sheet</string>
+    <string name="app_title_line1">ORIGAMI</string>
+    <string name="app_title_line2">CREASE SHEET</string>
+    <string name="app_short">CREASE SHEET</string>
+    <string name="splash_tagline">FOLD THE SHEET · MATCH THE SHAPE</string>
+    <string name="loading">LOADING</string>
+
+    <string name="menu_hero_line1">FOLD</string>
+    <string name="menu_hero_line2">THE</string>
+    <string name="menu_hero_line3">SHEET</string>
+    <string name="menu_tagline">150 PUZZLES · 15 PAPER ANIMALS</string>
+    <string name="menu_progress">%1$d / 150 FOLDS SOLVED</string>
+    <string name="play">PLAY</string>
+    <string name="daily_title">DAILY FOLD</string>
+    <string name="daily_sub">ONE SMALL PUZZLE EACH DAY</string>
+    <string name="daily_done">DONE TODAY</string>
+    <string name="menagerie">SHELF</string>
+    <string name="tutorial">LEARN</string>
+
+    <string name="game_puzzle">PUZZLE %1$d / 10</string>
+    <string name="game_folds">%1$d / %2$d</string>
+    <string name="game_target">TARGET</string>
+    <string name="game_target_hint">MATCH THIS SHAPE</string>
+    <string name="fold">FOLD</string>
+    <string name="undo">UNDO</string>
+    <string name="hint">HINT %1$d</string>
+    <string name="reset">RESET</string>
+    <string name="hint_off_path">UNDO BACK TO THE SOLUTION PATH</string>
+
+    <string name="pause_title">PAUSED</string>
+    <string name="pause_body">The sheet keeps every crease while you are away.</string>
+    <string name="resume">RESUME</string>
+    <string name="restart">RESTART</string>
+    <string name="menu">MENU</string>
+
+    <string name="result_solved">SOLVED</string>
+    <string name="result_set_done">SET COMPLETE</string>
+    <string name="replay">REPLAY</string>
+    <string name="stat_folds">FOLDS</string>
+    <string name="stat_par">PAR</string>
+    <string name="stat_best">BEST</string>
+    <string name="next_puzzle">NEXT PUZZLE</string>
+    <string name="play_again">FOLD AGAIN</string>
+    <string name="star_glyph">★</string>
+
+    <string name="menagerie_title">PAPER MENAGERIE</string>
+    <string name="menagerie_caption">THE COLLECTION</string>
+    <string name="menagerie_count">%1$d / 15</string>
+    <string name="locked_name">UNFOLDED</string>
+    <string name="drawer_progress">%1$d/10</string>
+
+    <string name="tutorial_title">FOLD TUTORIAL</string>
+    <string name="tutorial_step_1">VALLEY FOLD</string>
+    <string name="tutorial_body_1">Swipe across one crease, from the side that moves toward the side that stays.</string>
+    <string name="tutorial_step_2">FOLD ORDER</string>
+    <string name="tutorial_body_2">Two creases, one order. Undo and try the other way round.</string>
+    <string name="tutorial_step_3">LAYER BLOCKING</string>
+    <string name="tutorial_body_3">Four layers is the limit. A thicker stack refuses the next fold.</string>
+    <string name="tutorial_step_4">FRONT AND BACK</string>
+    <string name="tutorial_body_4">Each fold flips the paper over, so the printed face can end up hidden.</string>
+    <string name="tutorial_done_step">STEP SOLVED</string>
+    <string name="back">BACK</string>
+    <string name="retry">RETRY</string>
+    <string name="next">NEXT</string>
+    <string name="done">DONE</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="settings_haptics">HAPTICS</string>
+    <string name="settings_haptics_sub">PAPER TICK ON EVERY FOLD</string>
+    <string name="settings_sounds">PAPER SOUNDS</string>
+    <string name="settings_sounds_sub">SUBTLE FOLD FEEDBACK</string>
+    <string name="settings_motion">REDUCED MOTION</string>
+    <string name="settings_motion_sub">SHORT CROSS FADES, NO LOOPING DECOR</string>
+    <string name="settings_contrast">OUTLINE CONTRAST</string>
+    <string name="contrast_low">LOW</string>
+    <string name="contrast_normal">NORMAL</string>
+    <string name="contrast_high">HIGH</string>
+    <string name="settings_footer">%1$d OF 150 PUZZLES SOLVED</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="confirm_reset_title">RESET PROGRESS</string>
+    <string name="confirm_reset_body">Every solved fold, best score and shelved animal will be cleared.</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="cd_settings">Open settings</string>
+    <string name="cd_pause">Pause the puzzle</string>
+    <string name="cd_home">Back to the menu</string>
+    <string name="cd_logo">Origami Crease Sheet emblem</string>
+    <string name="cd_menagerie_mark">Shelved paper animal mark</string>
+    <string name="cd_display_piece">Folded paper fox on the shelf</string>
+
+    <string name="sd_locked">locked</string>
+    <string name="sd_unlocked">unlocked</string>
+    <string name="sd_crease_selected">crease selected</string>
+    <string name="sd_blocked">fold blocked</string>
+    <string name="sd_daily_done">already solved today</string>
+    <string name="sd_stars">%1$d of 3 stars</string>
+    <string name="sd_step">step %1$d of 4</string>
+    <string name="sd_on">on</string>
+    <string name="sd_off">off</string>
+
+    <string name="set_crane">CRANE</string>
+    <string name="set_frog">FROG</string>
+    <string name="set_fox">FOX</string>
+    <string name="set_butterfly">BUTTERFLY</string>
+    <string name="set_rabbit">RABBIT</string>
+    <string name="set_koi">KOI</string>
+    <string name="set_tortoise">TORTOISE</string>
+    <string name="set_swan">SWAN</string>
+    <string name="set_cat">CAT</string>
+    <string name="set_elephant">ELEPHANT</string>
+    <string name="set_crab">CRAB</string>
+    <string name="set_deer">DEER</string>
+    <string name="set_owl">OWL</string>
+    <string name="set_whale">WHALE</string>
+    <string name="set_dragon">DRAGON</string>
+</resources>
